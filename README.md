@@ -1,16 +1,34 @@
-## Hi there 👋
+# Sacha Rusinowicz
 
-<!--
-**iansacha/iansacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategy & Operations · AI & Digital Transformation · Program Leadership
 
-Here are some ideas to get you started:
+I lead cross-functional transformation work in complex, regulated environments—turning strategy into practical operating improvements through clear process design, data, and change leadership. My background includes work with IBM, SEI, Xerox, and healthcare organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I create games and apps. It is a space where I enjoy combining systems thinking, creative direction, and player experience.
+
+[LinkedIn](https://www.linkedin.com/in/sacharusinowicz/)
+
+## Featured projects
+
+### [🎮 Concert Rush: Front Row](https://github.com/iansacha/Games)
+
+A retro synthwave browser game that puts players in a packed concert crowd. Navigate shifting lanes, hazards, and bouncers to reach the stage, make a quick return trip, and get back for the final song.
+
+Built as a responsive, self-contained web game with **JavaScript**, **Three.js**, **HTML**, and **CSS**. It supports desktop and touch controls, three playable objectives, a dash mechanic, and an original chiptune soundtrack.
+
+[View the project →](https://github.com/iansacha/Games)
+
+### 🎮 Rush
+
+An Android game prototype set in the world of touring musicians, with original pixel-art scenes and custom visual assets spanning the road, backstage, and performance environments.
+
+Delivered as an **Android APK** and built to explore a distinctive music-driven game world.
+
+## Areas of focus
+
+Strategy & operations · AI adoption · Digital transformation · Process improvement · Program leadership · Change management · Data-informed decision-making
+
+## Background
+
+PMP · Lean Six Sigma Green Belt · LUMA Design Thinking  
+J.D., McGill University · M.Sc., London School of Economics · B.A., Acadia University
