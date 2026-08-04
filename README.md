@@ -18,12 +18,6 @@ Built as a responsive, self-contained web game with **JavaScript**, **Three.js**
 
 [View the project →](https://github.com/iansacha/Games)
 
-### 🎮 Rush
-
-An Android game prototype set in the world of touring musicians, with original pixel-art scenes and custom visual assets spanning the road, backstage, and performance environments.
-
-Delivered as an **Android APK** and built to explore a distinctive music-driven game world.
-
 ## Areas of focus
 
 Strategy & operations · AI adoption · Digital transformation · Process improvement · Program leadership · Change management · Data-informed decision-making
