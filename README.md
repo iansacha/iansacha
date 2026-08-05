@@ -10,6 +10,14 @@ Outside of work, I create games and apps. It is a space where I enjoy combining 
 
 ## Featured projects
 
+### [🎮 Concert Echo: On Tour](https://github.com/iansacha/concert-echo-on-tour)
+
+A retro, choice-driven tour game about navigating the ticket market without losing the music. Players travel between cities, manage cash and karma, and make decisions that determine their route to the sold-out finale.
+
+Built as an installable Progressive Web App with **React**, **Vite**, and **Vite PWA**. It supports responsive play, offline installation, arcade-style high scores, achievements, and shareable save data.
+
+[View the project →](https://github.com/iansacha/concert-echo-on-tour)
+
 ### [🎮 Concert Rush: Front Row](https://github.com/iansacha/Games)
 
 A retro synthwave browser game that puts players in a packed concert crowd. Navigate shifting lanes, hazards, and bouncers to reach the stage, make a quick return trip, and get back for the final song.
